@@ -13,4 +13,4 @@
 ![image](https://res.cloudinary.com/debo7pflq/image/upload/v1662166942/github/Screenshot_1490_zvyzsf.png)
 
 # Play Link
-[Game Link](https://replit.com/@keshavgupta8481/cli-do-you-know-me-quiz?embed=true)
+[Game Link](https://replit.com/@keshavgupta8481/Cli-Mahabharat-Quiz?embed=true) 
