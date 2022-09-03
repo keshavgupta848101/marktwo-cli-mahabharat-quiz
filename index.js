@@ -26,7 +26,7 @@ var highScores = [
 var questionArray = [
   {
     question: "Who shot the first arrow that killed Bheeshma pitama?",
-    answer: "Steve Rogers"
+    answer: "Arjuna"
   }, {
     question: "Who is the well known charioteer of Dhritarashtra?",
     answer: ""
