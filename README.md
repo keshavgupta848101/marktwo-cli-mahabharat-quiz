@@ -10,7 +10,7 @@
 
 # Game Screen
 
-![image](https://res.cloudinary.com/debo7pflq/image/upload/v1662166942/github/Screenshot_1490_zvyzsf.png)
+![image](https://res.cloudinary.com/debo7pflq/image/upload/v1662173902/github/Screenshot_1491_brpyzx.png)
 
 # Play Link
 [Game Link](https://replit.com/@keshavgupta8481/Cli-Mahabharat-Quiz?embed=true) 
