@@ -54,11 +54,11 @@ function compareAnswer(question, answer) {
   var userAnswer = readlineSync.question(question);
 
   if (userAnswer.toUpperCase() === answer.toUpperCase()) {
-    console.log(chalk.green("right!"));
+    console.log(chalk.green("rightttt!"));
     score = score + 1;
 
   } else {
-    console.log(chalk.red("Wrong!"));
+    console.log(chalk.red("Wrongggg!"));
 
   }
 
